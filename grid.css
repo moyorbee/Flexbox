@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: rgb(22, 22, 53);
+}
+
+main{
+    margin:5% 20%;
+    width: 50%;
+    
+    
+
+
+}
+.top{
+    display: flex;
+    justify-content: center;
+    
+}
+.red{
+    background-color: red;
+    padding: 100px;
+    width: 70%;
+    margin: 5px;
+    
+}
+
+.yellow{
+    background-color: yellow;
+    width: 70%;
+    padding: 10px;
+    margin: 5px;
+
+}
+
+.bottom{
+    display: flex;
+    
+}
+
+.green{
+    background-color: rgb(79, 168, 79);
+    width: 35%;
+    padding: 50px;
+    margin: 5px; 
+}
+
+.blue{
+    display: flex;
+    flex-direction: column;
+}
+
+.blue1{
+    background-color: rgb(78, 200, 236);
+    width: 120%;
+    padding: 75px;
+    margin: 5px; 
+}
+
+.blue2{
+    background-color: rgb(78, 200, 236);
+    width: 120%;
+    padding: 75px;
+    margin: 5px; 
+}
